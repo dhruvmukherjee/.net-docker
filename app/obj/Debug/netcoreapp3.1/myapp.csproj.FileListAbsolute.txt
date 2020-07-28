@@ -1,0 +1,12 @@
+/Users/grishav/Downloads/project/app/bin/Debug/netcoreapp3.1/myapp.deps.json
+/Users/grishav/Downloads/project/app/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.json
+/Users/grishav/Downloads/project/app/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.dev.json
+/Users/grishav/Downloads/project/app/bin/Debug/netcoreapp3.1/myapp.dll
+/Users/grishav/Downloads/project/app/bin/Debug/netcoreapp3.1/myapp.pdb
+/Users/grishav/Downloads/project/app/obj/Debug/netcoreapp3.1/myapp.csprojAssemblyReference.cache
+/Users/grishav/Downloads/project/app/obj/Debug/netcoreapp3.1/myapp.csproj.CoreCompileInputs.cache
+/Users/grishav/Downloads/project/app/obj/Debug/netcoreapp3.1/myapp.AssemblyInfoInputs.cache
+/Users/grishav/Downloads/project/app/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
+/Users/grishav/Downloads/project/app/obj/Debug/netcoreapp3.1/myapp.dll
+/Users/grishav/Downloads/project/app/obj/Debug/netcoreapp3.1/myapp.pdb
+/Users/grishav/Downloads/project/app/obj/Debug/netcoreapp3.1/myapp.genruntimeconfig.cache

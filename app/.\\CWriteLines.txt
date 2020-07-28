@@ -1,0 +1,26 @@
+ 
+ **************************
+ 
+04/01/2020 14:59:21
+ 
+USER : grishav
+TERM_PROGRAM_VERSION : 421.2
+__CF_USER_TEXT_ENCODING : 0x4F8BCE3D:0x0:0x0
+Apple_PubSub_Socket_Render : /private/tmp/com.apple.launchd.biyIcwVjiU/Render
+OLDPWD : /Users/grishav/Downloads/project
+LOGNAME : grishav
+XPC_SERVICE_NAME : 0
+SHLVL : 1
+XPC_FLAGS : 0x0
+HOME : /Users/grishav
+SHELL : /bin/bash
+TERM_PROGRAM : Apple_Terminal
+TERM : xterm-256color
+PWD : /Users/grishav/Downloads/project/app
+TERM_SESSION_ID : 3869BF36-81F1-479E-B11D-B27C7C3DEF12
+_ : /usr/local/share/dotnet/dotnet
+SSH_AUTH_SOCK : /private/tmp/com.apple.launchd.d2I4fidYtX/Listeners
+LC_CTYPE : UTF-8
+TMPDIR : /var/folders/9y/5wwgf1fn32d66wp0t4qvt40n7rqljx/T/
+PATH : /Users/grishav/.toolbox/bin:LOCAL_PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+DOTNET_ROOT : /usr/local/share/dotnet
